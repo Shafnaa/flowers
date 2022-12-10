@@ -33,19 +33,3 @@ canvas:active {
   transform: translateY(5px);
   visibility: hidden;
 }
-
-@-webkit-keyframes slide-in {
-  100% {
-    opacity: 1;
-    transform: translateY(0);
-    visibility: visible;
-  }
-}
-
-@keyframes slide-in {
-  100% {
-    opacity: 1;
-    transform: translateY(0);
-    visibility: visible;
-  }
-}
